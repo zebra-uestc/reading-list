@@ -3,15 +3,10 @@
 ## Paper
 
 - **RainBlock: Faster Transaction Processing in Public Blockchains** [[pdf]](./assets/Ponnapalli%20et%20al.%20-%20RainBlock%20Faster%20Transaction%20Processing%20in%20Public.pdf) [[slide]](./assets/slides/atc21_slides_ponnapalli.pdf) #stateless #atc21 #conference-2022-09-20 #conference-2022-09-22
-
 - **A Decentralized Blockchain with High Throughput and Fast Conﬁrmation** [[pdf]](./assets/Li%20et%20al.%20-%20A%20Decentralized%20Blockchain%20with%20High%20Throughput%20an.pdf) [[slide]](./assets/slides/atc20-paper104-slides-li.pdf) [[code]](https://github.com/Conflux-Chain/conflux-rust) #conflux #consensus #atc20 #conference-2022-09-26 #conference-2022-09-27
-
 - **Bringing Decentralized Search to Decentralized Services** [[pdf]](./assets/Li%20et%20al.%20-%20Bringing%20Decentralized%20Search%20to%20Decentralized%20Ser.pdf) [[slide]](./assets/slides/osdi21_slides_li.pdf) [[code]](https://github.com/SJTU-IPADS/DeSearch) #query #osdi21
-
 - **Query Processing in Blockchain Systems: Current State and Future Challenges** [[pdf]](./assets/Przytarski%20et%20al.%20-%202022%20-%20Query%20Processing%20in%20Blockchain%20Systems%20Current%20St.pdf) #query
-
 - **MapReduce: Simpliﬁed Data Processing on Large Clusters** [[pdf]](./assets/Dean%20and%20Ghemawat%20-%202004%20-%20MapReduce%20Simpli%EF%AC%81ed%20Data%20Processing%20on%20Large%20Clus.pdf) #MapReduce
-
 - **Towards Scalable Blockchain Analysis** [[pdf]](./assets/Bragagnolo%20et%20al.%20-%20Towards%20Scalable%20Blockchain%20Analysis.pdf) #query #MapReduce
 
 ## Guide
