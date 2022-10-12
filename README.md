@@ -12,7 +12,7 @@
 - **SQL-Middleware: Enabling the Blockchain with SQL** [[pdf]](./assets/Tong%20et%20al.%20-%202021%20-%20SQL-Middleware%20Enabling%20the%20Blockchain%20with%20SQL.pdf) #BlockChain #Query #Conference-2022-10-08
 - **vChain: A Blockchain System Ensuring Query Integrity** [[pdf]](./assets/Wang%20et%20al.%20-%202020%20-%20vChain%20A%20Blockchain%20System%20Ensuring%20Query%20Integri.pdf) #BlockChain #Query
 - **VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems** [[pdf]](./assets/Wu%20et%20al.%20-%202022%20-%20VQL%20Efficient%20and%20Verifiable%20Cloud%20Query%20Services.pdf) #BlockChain #Query
-- **BlockSci: Design and applications of a blockchain analysis platform** [[pdf]](./assets/Kalodner%20et%20al.%20-%20BlockSci%20Design%20and%20applications%20of%20a%20blockchain%20.pdf) #BlockChain #Query
+- **BlockSci: Design and applications of a blockchain analysis platform** [[pdf]](./assets/Kalodner%20et%20al.%20-%20BlockSci%20Design%20and%20applications%20of%20a%20blockchain%20.pdf) [[slide]](./assets/slides/sec20_slides_kalodner.pdf) [[code]](https://github.com/citp/BlockSci) #BlockChain #Query #BTC #InMemory #Graph #MapReduce #SEC20
 - **Towards Rich Qery Blockchain Database** [[pdf]](./assets/Zhu%20et%20al.%20-%202020%20-%20Towards%20Rich%20Qery%20Blockchain%20Database.pdf) #BlockChain #Query
 - **BlockchainDB: a shared database on blockchains** [[pdf]](./assets/El-Hindi%20et%20al.%20-%202019%20-%20BlockchainDB%20a%20shared%20database%20on%20blockchains.pdf) #BlockChain #Query
 - **SEBDB: Semantics Empowered BlockChain DataBase** [[pdf]](./assets/Zhu%20et%20al.%20-%202019%20-%20SEBDB%20Semantics%20Empowered%20BlockChain%20DataBase.pdf) #BlockChain #Query
