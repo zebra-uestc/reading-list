@@ -6,7 +6,7 @@
 - **A Decentralized Blockchain with High Throughput and Fast Conﬁrmation** [[pdf]](./assets/Li%20et%20al.%20-%20A%20Decentralized%20Blockchain%20with%20High%20Throughput%20an.pdf) [[slide]](./assets/slides/atc20-paper104-slides-li.pdf) [[code]](https://github.com/Conflux-Chain/conflux-rust) #BlockChain #Conflux #Consensus #PoW #ATC20 #Conference-2022-09-26 #Conference-2022-09-27
 - **Bringing Decentralized Search to Decentralized Services** [[pdf]](./assets/Li%20et%20al.%20-%20Bringing%20Decentralized%20Search%20to%20Decentralized%20Ser.pdf) [[slide]](./assets/slides/osdi21_slides_li.pdf) [[code]](https://github.com/SJTU-IPADS/DeSearch) #BlockChain #Query #SearchEngine #Distributed #Privacy #Verifiable #TrustedExecutionEnvironment #IntelSGX #ObliviousRAM #Serverless #Steem #OpenBazaar #OSDI21
 - **Query Processing in Blockchain Systems: Current State and Future Challenges** [[pdf]](./assets/Przytarski%20et%20al.%20-%202022%20-%20Query%20Processing%20in%20Blockchain%20Systems%20Current%20St.pdf) #BlockChain #Query #Conference-2022-10-08
-- **MapReduce: Simpliﬁed Data Processing on Large Clusters** [[pdf]](./assets/Dean%20and%20Ghemawat%20-%202004%20-%20MapReduce%20Simpli%EF%AC%81ed%20Data%20Processing%20on%20Large%20Clus.pdf) #MapReduce #BigData
+- **MapReduce: Simpliﬁed Data Processing on Large Clusters** [[pdf]](./assets/Dean%20and%20Ghemawat%20-%202004%20-%20MapReduce%20Simpli%EF%AC%81ed%20Data%20Processing%20on%20Large%20Clus.pdf) #MapReduce #BigData #Conference-2022-10-20
 - **Towards Scalable Blockchain Analysis** [[pdf]](./assets/Bragagnolo%20et%20al.%20-%20Towards%20Scalable%20Blockchain%20Analysis.pdf) #BlockChain #Query #MapReduce #Smalltalk #Conference-2022-10-08
 - **EtherQL: A Query Layer for Blockchain System** [[pdf]](./assets/Li%20et%20al.%20-%202017%20-%20EtherQL%20A%20Query%20Layer%20for%20Blockchain%20System.pdf) #BlockChain #Query #Conference-2022-10-08
 - **SQL-Middleware: Enabling the Blockchain with SQL** [[pdf]](./assets/Tong%20et%20al.%20-%202021%20-%20SQL-Middleware%20Enabling%20the%20Blockchain%20with%20SQL.pdf) #BlockChain #Query #Conference-2022-10-08
@@ -62,3 +62,7 @@
 ## Wiki
 
 - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) #BlockChain #BTC
+
+## Open class
+
+- [北京大学肖臻老师《区块链技术与应用》公开课](http://zhenxiao.com/blockchain/) #BlockChain
