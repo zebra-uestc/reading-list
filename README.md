@@ -34,6 +34,7 @@
 - **BML: A Data Mapping Language for Blockchain Platforms** [[pdf]](./assets/Do%20-%20BML%20A%20Data%20Mapping%20Language%20for%20Blockchain%20Platfo.pdf) #BlockChain
 - **An Efficient Data Query Method of Blockchain Based on Index** [[pdf]](./assets/Liu%20et%20al.%20-%20An%20Efficient%20Data%20Query%20Method%20of%20Blockchain%20Based.pdf) #BlockChain
 - **A Survey on the Efficiency, Reliability, and Security of Data Query in Blockchain Systems** [[pdf]](./assets/Zhang%20et%20al.%20-%20A%20Survey%20on%20the%20Efficiency%2C%20Reliability%2C%20and%20Secur.pdf) #BlockChain
+- **Spark Cluster Computing with Working Sets** [[pdf]](./assets/Spark%20Cluster%20Computing%20with%20Working%20Sets.pdf) #BlockChain
 
 ## Guide
 
