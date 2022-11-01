@@ -11,7 +11,9 @@
 - **EtherQL: A Query Layer for Blockchain System** [[pdf]](./assets/Li%20et%20al.%20-%202017%20-%20EtherQL%20A%20Query%20Layer%20for%20Blockchain%20System.pdf) #BlockChain #Query #Conference-2022-10-08
 - **SQL-Middleware: Enabling the Blockchain with SQL** [[pdf]](./assets/Tong%20et%20al.%20-%202021%20-%20SQL-Middleware%20Enabling%20the%20Blockchain%20with%20SQL.pdf) #BlockChain #Query #Conference-2022-10-08
 - **A general framework for blockchain analytics** [[pdf]](./assets/Bartoletti%20et%20al.%20-%202017%20-%20A%20general%20framework%20for%20blockchain%20analytics.pdf) #BlockChain #Query #Conference-2022-10-08 #Worthless
+- **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query
 - **vChain: A Blockchain System Ensuring Query Integrity** [[pdf]](./assets/Wang%20et%20al.%20-%202020%20-%20vChain%20A%20Blockchain%20System%20Ensuring%20Query%20Integri.pdf) #BlockChain #Query
+- **vChain+: Optimizing Verifiable Blockchain Boolean Range Queries** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query
 - **VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems** [[pdf]](./assets/Wu%20et%20al.%20-%202022%20-%20VQL%20Efficient%20and%20Verifiable%20Cloud%20Query%20Services.pdf) #BlockChain #Query
 - **BlockSci: Design and applications of a blockchain analysis platform** [[pdf]](./assets/Kalodner%20et%20al.%20-%20BlockSci%20Design%20and%20applications%20of%20a%20blockchain%20.pdf) [[slide]](./assets/slides/sec20_slides_kalodner.pdf) [[code]](https://github.com/citp/BlockSci) #BlockChain #Query #BTC #InMemory #Graph #MapReduce #SEC20 #Conference-2022-10-18
 - **SEBDB: Semantics Empowered BlockChain DataBase** [[pdf]](./assets/Zhu%20et%20al.%20-%202019%20-%20SEBDB%20Semantics%20Empowered%20BlockChain%20DataBase.pdf) #BlockChain #Query #SQL #HyperledgerFabric #Conference-2022-10-18
@@ -22,7 +24,7 @@
 - **Forkbase an efficient storage engine for blockcha** [[pdf]](./assets/Wang%20et%20al.%20-%202018%20-%20Forkbase%20an%20efficient%20storage%20engine%20for%20blockcha.pdf) #BlockChain #StorageEngine #Conference-2022-10-25
     - **Analysis of Indexing Structures for Immutable Data** [[pdf]](./assets/Yue%20et%20al.%20-%202020%20-%20Analysis%20of%20Indexing%20Structures%20for%20Immutable%20Data.pdf)
 - **FAST: A MapReduce Consensus for High Performance Blockchains** [[pdf]](./assets/Khan%20-%202018%20-%20FAST%20A%20MapReduce%20Consensus%20for%20High%20Performance%20B.pdf) #BlockChain #Conference-2022-10-25 #Worthless
-- **Fine-Grained, Secure and Efﬁcient Data Provenance on Blockchain Systems** [[pdf]](./assets/Ruan%20et%20al.%20-%20Fine-Grained%2C%20Secure%20and%20Ef%EF%AC%81cient%20Data%20Provenance%20.pdf) #BlockChain
+- **Fine-Grained, Secure and Efﬁcient Data Provenance on Blockchain Systems** [[pdf]](./assets/Ruan%20et%20al.%20-%20Fine-Grained%2C%20Secure%20and%20Ef%EF%AC%81cient%20Data%20Provenance%20.pdf) [[code]](https://github.com/fhaer/CCQL) #BlockChain
 - **Using a Hybrid Approach to Data Management in Relational Database and Blockchain: a Case Study on The E-health Domain** [[pdf]](./assets/Marinho%20et%20al.%20-%20Using%20a%20Hybrid%20Approach%20to%20Data%20Management%20in%20Rela.pdf) #BlockChain
 - **Towards Interoperability of Open and Permissionless Blockchains: A Cross-Chain Query Language** [[pdf]](./assets/H%C3%A4rer%20-%202022%20-%20Towards%20Interoperability%20of%20Open%20and%20Permissionles.pdf) #BlockChain
 - **Mystiko—Blockchain Meets Big Data** [[pdf]](./assets/Bandara%20et%20al.%20-%202018%20-%20Mystiko%E2%80%94Blockchain%20Meets%20Big%20Data.pdf) #BlockChain
@@ -34,7 +36,9 @@
 - **BML: A Data Mapping Language for Blockchain Platforms** [[pdf]](./assets/Do%20-%20BML%20A%20Data%20Mapping%20Language%20for%20Blockchain%20Platfo.pdf) #BlockChain
 - **An Efficient Data Query Method of Blockchain Based on Index** [[pdf]](./assets/Liu%20et%20al.%20-%20An%20Efficient%20Data%20Query%20Method%20of%20Blockchain%20Based.pdf) #BlockChain
 - **A Survey on the Efficiency, Reliability, and Security of Data Query in Blockchain Systems** [[pdf]](./assets/Zhang%20et%20al.%20-%20A%20Survey%20on%20the%20Efficiency%2C%20Reliability%2C%20and%20Secur.pdf) #BlockChain
-- **Spark Cluster Computing with Working Sets** [[pdf]](./assets/Spark%20Cluster%20Computing%20with%20Working%20Sets.pdf) #BlockChain
+- **Spark Cluster Computing with Working Sets** [[pdf]](./assets/Spark%20Cluster%20Computing%20with%20Working%20Sets.pdf) #BigData #Spark #Conference-2022-10-27
+- **FalconDB: Blockchain-based Collaborative Database** [[pdf]](./assets/Peng%20et%20al.%20-%202020%20-%20FalconDB%20Blockchain-based%20Collaborative%20Database.pdf) #BlockChain #Database
+- **Sidechain technologies in blockchain networks: An examination and state-of-the-art review** [[pdf]](./assets/Singh%20et%20al.%20-%202020%20-%20Sidechain%20technologies%20in%20blockchain%20networks%20An%20.pdf) #BlockChain #SideChain
 
 ## Guide
 
