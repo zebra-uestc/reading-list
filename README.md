@@ -39,7 +39,7 @@
 - **Spark Cluster Computing with Working Sets** [[pdf]](./assets/Spark%20Cluster%20Computing%20with%20Working%20Sets.pdf) #BigData #Spark #Conference-2022-10-27
 - **FalconDB: Blockchain-based Collaborative Database** [[pdf]](./assets/Peng%20et%20al.%20-%202020%20-%20FalconDB%20Blockchain-based%20Collaborative%20Database.pdf) #BlockChain #Database
 - **Sidechain technologies in blockchain networks: An examination and state-of-the-art review** [[pdf]](./assets/Singh%20et%20al.%20-%202020%20-%20Sidechain%20technologies%20in%20blockchain%20networks%20An%20.pdf) #BlockChain #SideChain
-
+- **Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases** [[pdf]](./assets/) [[slide]](./assets/slides/sigmod17_slides_aurora.pdf) #Database
 ## Guide
 
 - **“区块链”重点专项2022年度项目申报指南** [[pdf]](./assets/%E2%80%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E2%80%9D%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B92022%E5%B9%B4%E5%BA%A6%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E6%8C%87%E5%8D%97.pdf) #BlockChain
