@@ -11,8 +11,8 @@
 - **EtherQL: A Query Layer for Blockchain System** [[pdf]](./assets/Li%20et%20al.%20-%202017%20-%20EtherQL%20A%20Query%20Layer%20for%20Blockchain%20System.pdf) #BlockChain #Query #Conference-2022-10-08
 - **SQL-Middleware: Enabling the Blockchain with SQL** [[pdf]](./assets/Tong%20et%20al.%20-%202021%20-%20SQL-Middleware%20Enabling%20the%20Blockchain%20with%20SQL.pdf) #BlockChain #Query #Conference-2022-10-08
 - **A general framework for blockchain analytics** [[pdf]](./assets/Bartoletti%20et%20al.%20-%202017%20-%20A%20general%20framework%20for%20blockchain%20analytics.pdf) #BlockChain #Query #Conference-2022-10-08 #Worthless
-- **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query
-- **vChain: A Blockchain System Ensuring Query Integrity** [[pdf]](./assets/Wang%20et%20al.%20-%202020%20-%20vChain%20A%20Blockchain%20System%20Ensuring%20Query%20Integri.pdf) #BlockChain #Query
+- **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query #SIGMOD19
+- **vChain: A Blockchain System Ensuring Query Integrity** [[pdf]](./assets/Wang%20et%20al.%20-%202020%20-%20vChain%20A%20Blockchain%20System%20Ensuring%20Query%20Integri.pdf) #BlockChain #Query #ICDE22
 - **vChain+: Optimizing Verifiable Blockchain Boolean Range Queries** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query
 - **VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems** [[pdf]](./assets/Wu%20et%20al.%20-%202022%20-%20VQL%20Efficient%20and%20Verifiable%20Cloud%20Query%20Services.pdf) #BlockChain #Query
 - **BlockSci: Design and applications of a blockchain analysis platform** [[pdf]](./assets/Kalodner%20et%20al.%20-%20BlockSci%20Design%20and%20applications%20of%20a%20blockchain%20.pdf) [[slide]](./assets/slides/sec20_slides_kalodner.pdf) [[code]](https://github.com/citp/BlockSci) #BlockChain #Query #BTC #InMemory #Graph #MapReduce #SEC20 #Conference-2022-10-18
@@ -36,10 +36,11 @@
 - **BML: A Data Mapping Language for Blockchain Platforms** [[pdf]](./assets/Do%20-%20BML%20A%20Data%20Mapping%20Language%20for%20Blockchain%20Platfo.pdf) #BlockChain
 - **An Efficient Data Query Method of Blockchain Based on Index** [[pdf]](./assets/Liu%20et%20al.%20-%20An%20Efficient%20Data%20Query%20Method%20of%20Blockchain%20Based.pdf) #BlockChain
 - **A Survey on the Efficiency, Reliability, and Security of Data Query in Blockchain Systems** [[pdf]](./assets/Zhang%20et%20al.%20-%20A%20Survey%20on%20the%20Efficiency%2C%20Reliability%2C%20and%20Secur.pdf) #BlockChain
-- **Spark Cluster Computing with Working Sets** [[pdf]](./assets/Spark%20Cluster%20Computing%20with%20Working%20Sets.pdf) #BigData #Spark #Conference-2022-10-27
+- **Spark Cluster Computing with Working Sets** [[pdf]](./assets/Zaharia%20et%20al.%20-%202010%20-%20Spark%20cluster%20computing%20with%20working%20sets.pdf) [[ppt]](./assets/slides/Spark%20Cluster%20Computing%20with%20Working%20Sets-presentation.pdf) #BigData #Spark #Conference-2022-10-27
 - **FalconDB: Blockchain-based Collaborative Database** [[pdf]](./assets/Peng%20et%20al.%20-%202020%20-%20FalconDB%20Blockchain-based%20Collaborative%20Database.pdf) #BlockChain #Database
 - **Sidechain technologies in blockchain networks: An examination and state-of-the-art review** [[pdf]](./assets/Singh%20et%20al.%20-%202020%20-%20Sidechain%20technologies%20in%20blockchain%20networks%20An%20.pdf) #BlockChain #SideChain
-- **Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases** [[pdf]](./assets/) [[slide]](./assets/slides/sigmod17_slides_aurora.pdf) #Database
+- **Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases** [[pdf]](./assets/Verbitski%20et%20al.%20-%202017%20-%20Amazon%20Aurora%20Design%20Considerations%20for%20High%20Thro.pdf) [[slide]](./assets/slides/sigmod17_slides_aurora.pdf) #Database #CloudNative #SIGMOD17 #Conference-2022-11-03
+
 ## Guide
 
 - **“区块链”重点专项2022年度项目申报指南** [[pdf]](./assets/%E2%80%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E2%80%9D%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B92022%E5%B9%B4%E5%BA%A6%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E6%8C%87%E5%8D%97.pdf) #BlockChain
