@@ -11,8 +11,8 @@
 - **EtherQL: A Query Layer for Blockchain System** [[pdf]](./assets/Li%20et%20al.%20-%202017%20-%20EtherQL%20A%20Query%20Layer%20for%20Blockchain%20System.pdf) #BlockChain #Query #Conference-2022-10-08
 - **SQL-Middleware: Enabling the Blockchain with SQL** [[pdf]](./assets/Tong%20et%20al.%20-%202021%20-%20SQL-Middleware%20Enabling%20the%20Blockchain%20with%20SQL.pdf) #BlockChain #Query #Conference-2022-10-08
 - **A general framework for blockchain analytics** [[pdf]](./assets/Bartoletti%20et%20al.%20-%202017%20-%20A%20general%20framework%20for%20blockchain%20analytics.pdf) #BlockChain #Query #Conference-2022-10-08 #Worthless
-- **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query #SIGMOD19
-- **vChain: A Blockchain System Ensuring Query Integrity** [[pdf]](./assets/Wang%20et%20al.%20-%202020%20-%20vChain%20A%20Blockchain%20System%20Ensuring%20Query%20Integri.pdf) #BlockChain #Query #ICDE22
+- **vChain: Enabling Verifiable Boolean Range Queries over Blockchain Databases** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query #SIGMOD19  #Conference-2022-11-8
+- **vChain: A Blockchain System Ensuring Query Integrity** [[pdf]](./assets/Wang%20et%20al.%20-%202020%20-%20vChain%20A%20Blockchain%20System%20Ensuring%20Query%20Integri.pdf) #BlockChain #Query #ICDE22  #Conference-2022-11-8
 - **vChain+: Optimizing Verifiable Blockchain Boolean Range Queries** [[pdf]](./assets/Xu%20et%20al.%20-%202019%20-%20vChain%20Enabling%20Verifiable%20Boolean%20Range%20Queries%20.pdf) #BlockChain #Query
 - **VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems** [[pdf]](./assets/Wu%20et%20al.%20-%202022%20-%20VQL%20Efficient%20and%20Verifiable%20Cloud%20Query%20Services.pdf) #BlockChain #Query
 - **BlockSci: Design and applications of a blockchain analysis platform** [[pdf]](./assets/Kalodner%20et%20al.%20-%20BlockSci%20Design%20and%20applications%20of%20a%20blockchain%20.pdf) [[slide]](./assets/slides/sec20_slides_kalodner.pdf) [[code]](https://github.com/citp/BlockSci) #BlockChain #Query #BTC #InMemory #Graph #MapReduce #SEC20 #Conference-2022-10-18
@@ -30,16 +30,27 @@
 - **Mystiko—Blockchain Meets Big Data** [[pdf]](./assets/Bandara%20et%20al.%20-%202018%20-%20Mystiko%E2%80%94Blockchain%20Meets%20Big%20Data.pdf) #BlockChain
 - **MapReduce-Based Framework For Blockchain Scalability** [[pdf]](./assets/Darisi%20-%20MapReduce-Based%20Framework%20For%20Blockchain%20Scalabili.pdf) #BlockChain
 - **Graph-based Management and Mining of Blockchain Data** [[pdf]](./assets/Khan%20-%202022%20-%20Graph-based%20Management%20and%20Mining%20of%20Blockchain%20Da.pdf) #BlockChain
-- **Enabling MapReduce based Parallel Computation in Smart Contracts** [[pdf]](./assets/Muchhala%20et%20al.%20-%20Enabling%20MapReduce%20based%20Parallel%20Computation%20in%20S.pdf) #BlockChain
-- **Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database** [[pdf]](./assets/Gong%20et%20al.%20-%202022%20-%20Efficient%20Verifiable%20Boolean%20Range%20Query%20for%20Light.pdf) #BlockChain
+- **Enabling MapReduce based Parallel Computation in Smart Contracts** [[pdf]](./assets/Muchhala%20et%20al.%20-%20Enabling%20MapReduce%20based%20Parallel%20Computation%20in%20S.pdf) #BlockChain #MapReduce #Contract #Conference-2022-11-15
+- **Efficient Verifiable Boolean Range Query for Light Clients on Blockchain Database** [[pdf]](./assets/Gong%20et%20al.%20-%202022%20-%20Efficient%20Verifiable%20Boolean%20Range%20Query%20for%20Light.pdf) #BlockChain #Conference-2022-11-08
 - **EBTree: A B-plus Tree Based Index for Ethereum Blockchain Data** [[pdf]](./assets/XiaoJu%20et%20al.%20-%20EBTree%20A%20B-plus%20Tree%20Based%20Index%20for%20Ethereum%20Blo.pdf) #BlockChain
 - **BML: A Data Mapping Language for Blockchain Platforms** [[pdf]](./assets/Do%20-%20BML%20A%20Data%20Mapping%20Language%20for%20Blockchain%20Platfo.pdf) #BlockChain
 - **An Efficient Data Query Method of Blockchain Based on Index** [[pdf]](./assets/Liu%20et%20al.%20-%20An%20Efficient%20Data%20Query%20Method%20of%20Blockchain%20Based.pdf) #BlockChain
-- **A Survey on the Efficiency, Reliability, and Security of Data Query in Blockchain Systems** [[pdf]](./assets/Zhang%20et%20al.%20-%20A%20Survey%20on%20the%20Efficiency%2C%20Reliability%2C%20and%20Secur.pdf) #BlockChain
+- **A Survey on the Efficiency, Reliability, and Security of Data Query in Blockchain Systems** [[pdf]](./assets/Zhang%20et%20al.%20-%20A%20Survey%20on%20the%20Efficiency%2C%20Reliability%2C%20and%20Secur.pdf) #BlockChain #Survey #Privacy #Conference-2022-11-08
 - **Spark Cluster Computing with Working Sets** [[pdf]](./assets/Zaharia%20et%20al.%20-%202010%20-%20Spark%20cluster%20computing%20with%20working%20sets.pdf) [[ppt]](./assets/slides/Spark%20Cluster%20Computing%20with%20Working%20Sets-presentation.pdf) #BigData #Spark #Conference-2022-10-27
-- **FalconDB: Blockchain-based Collaborative Database** [[pdf]](./assets/Peng%20et%20al.%20-%202020%20-%20FalconDB%20Blockchain-based%20Collaborative%20Database.pdf) #BlockChain #Database
+- **FalconDB: Blockchain-based Collaborative Database** [[pdf]](./assets/Peng%20et%20al.%20-%202020%20-%20FalconDB%20Blockchain-based%20Collaborative%20Database.pdf) #BlockChain #Database #Conference-2022-11-08
 - **Sidechain technologies in blockchain networks: An examination and state-of-the-art review** [[pdf]](./assets/Singh%20et%20al.%20-%202020%20-%20Sidechain%20technologies%20in%20blockchain%20networks%20An%20.pdf) #BlockChain #SideChain
 - **Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases** [[pdf]](./assets/Verbitski%20et%20al.%20-%202017%20-%20Amazon%20Aurora%20Design%20Considerations%20for%20High%20Thro.pdf) [[slide]](./assets/slides/sigmod17_slides_aurora.pdf) #Database #CloudNative #SIGMOD17 #Conference-2022-11-03
+- **Scalable Privacy-Preserving Query Processing over Ethereum Blockchain** [[pdf]](./assets/Linoy%20et%20al.%20-%202019%20-%20Scalable%20Privacy-Preserving%20Query%20Processing%20over%20.pdf) #BlockChain #Privacy #Conference-2022-11-08
+- **HBasechainDB – A Scalable Blockchain Framework on Hadoop Ecosystem** [[pdf]](./assets/Sahoo%20and%20Baruah%20-%202018%20-%20HBasechainDB%20%E2%80%93%20A%20Scalable%20Blockchain%20Framework%20on%20.pdf) #BlockChain #BigChainDB #HBase #Conference-2022-11-15
+- **BlockHDFS: Blockchain-integrated Hadoop distributed file system for secure provenance traceability** [[pdf]](./assets/Mothukuri%20-%202021%20-%20BlockHDFS%20Blockchain-integrated%20Hadoop%20distribute.pdf) #BlockChain #BlockChainAnchor #HDFS #Conference-2022-11-15
+- **HyperService: Interoperability and Programmability Across Heterogeneous Blockchains** [[pdf]](./assets/Liu%20et%20al.%20-%202019%20-%20HyperService%20Interoperability%20and%20Programmability.pdf) #BlockChain
+- **EtherH: A Hybrid Index to Support Blockchain Data Query** [[pdf]](./assets/Du%20et%20al.%20-%202021%20-%20EtherH%20A%20Hybrid%20Index%20to%20Support%20Blockchain%20Data%20.pdf) #BlockChain
+- **Hybrid blockchain database systems: design and performance** [[pdf]](./assets/Ge%20et%20al.%20-%202022%20-%20Hybrid%20blockchain%20database%20systems%20design%20and%20per.pdf) #BlockChain
+- **Vassago: Efficient and Authenticated Provenance Query on Multiple Blockchains** [[pdf]](./assets/Han%20et%20al.%20-%202021%20-%20Vassago%20Efficient%20and%20Authenticated%20Provenance%20Qu.pdf) #BlockChain
+- **Towards Scaling Blockchain Systems via Sharding** [[pdf]](./assets/Dang%20et%20al.%20-%202019%20-%20Towards%20Scaling%20Blockchain%20Systems%20via%20Sharding.pdf) #BlockChain #Sharding #SIGMOD19
+- **An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie** [[pdf]](./assets/Pei%20et%20al.%20-%202020%20-%20An%20Efficient%20Query%20Scheme%20for%20Hybrid%20Storage%20Block.pdf) #BlockChain
+- **Optimal heap limits for reducing browser memory use** [[pdf]](./assets/Kirisame%20et%20al.%20-%202022%20-%20Optimal%20heap%20limits%20for%20reducing%20browser%20memory%20us.pdf) #GC #V8 #OOPSLA22
+- **Survey of Distributed File System Design Choices** [[pdf]](./assets/Macko%20and%20Hennessey%20-%202022%20-%20Survey%20of%20Distributed%20File%20System%20Design%20Choices.pdf) #DistributedFileSystem #Survey
 
 ## Guide
 
