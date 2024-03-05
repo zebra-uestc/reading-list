@@ -51,7 +51,7 @@
 - **An Efficient Query Scheme for Hybrid Storage Blockchains Based on Merkle Semantic Trie** [[pdf]](./assets/Pei%20et%20al.%20-%202020%20-%20An%20Efficient%20Query%20Scheme%20for%20Hybrid%20Storage%20Block.pdf) #BlockChain
 - **Optimal heap limits for reducing browser memory use** [[pdf]](./assets/Kirisame%20et%20al.%20-%202022%20-%20Optimal%20heap%20limits%20for%20reducing%20browser%20memory%20us.pdf) #GC #V8 #OOPSLA22
 - **Survey of Distributed File System Design Choices** [[pdf]](./assets/Macko%20and%20Hennessey%20-%202022%20-%20Survey%20of%20Distributed%20File%20System%20Design%20Choices.pdf) #DistributedFileSystem #Survey
-
+- **Understanding ethereum via graph analysis** [[pdf]](./assets/CHEN%20et%20al.%20-2020-%20Understanding%20ethereum%20via%20graph%20analysis.pdf) #BlockChain #Ethereum #Data Analysis
 ## Guide
 
 - **“区块链”重点专项2022年度项目申报指南** [[pdf]](./assets/%E2%80%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E2%80%9D%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B92022%E5%B9%B4%E5%BA%A6%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E6%8C%87%E5%8D%97.pdf) #BlockChain
