@@ -115,6 +115,7 @@
 
 <details>
 <summary>Grey literature</summary>
+
   - **Ethereum Whitepaper** [[site]](https://ethereum.org/en/whitepaper/) #BlockChain #Ethereum
   - **Ethereum Yellowpaper** [[pdf]](https://ethereum.github.io/yellowpaper/paper.pdf) #BlockChain #Ethereum
   - **BigchainDB 2.0 Whitepaper** [[pdf]](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf) #BlockChain
@@ -122,6 +123,7 @@
 
 <details>
 <summary>Research</summary>
+
   - [The Search Engines of Web3](https://blog.web3labs.com/search-engines-of-web3) #BlockChain #Query
   - [研究｜从数据查询看行业的发展](https://cryptoyc.com/de74bb06c0334655a11aabf2935025f9) #BlockChain #Query
   - [研究｜中间件介绍](https://cryptoyc.com/6047d989a53544239a6e74f7b6a8d420) #BlockChain #Middleware
@@ -131,6 +133,7 @@
 
 <details>
 <summary>Project</summary>
+
   - **The Graph** [[site]](http://thegraph.com) [[github]](https://github.com/graphprotocol) #BlockChain #Query #Ethereum #IPFS #GraphQL #TheGraph
   - **Conflux** [[site]](https://confluxnetwork.org/) [[github]](https://github.com/conflux-chain) #BlockChain #Chain #Conflux
   - **Signum** [[site]](https://www.signum.network/) [[github]](https://github.com/signum-network) #BlockChain #Chain
@@ -140,11 +143,13 @@
 
 <details>
 <summary>Wiki</summary>
+
   - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) #BlockChain #BTC
 </details> 
 
 <details>
 <summary>Open class</summary>
+
   - [北京大学肖臻老师《区块链技术与应用》公开课](http://zhenxiao.com/blockchain/) #BlockChain
 </details> 
 
@@ -152,14 +157,14 @@
 
 <details>
 <summary>Paper</summary>
-  *
+*
 </details> 
 
 <details>
 <summary>PPT</summary>
-    - CoolSim & Delorean.巢玲威&薛江莹.202403019. [ppt](./assets/slides/CoolSim%26%20delorean%E8%AE%A8%E8%AE%BA_202403019.pptx)
 
-    - 基于NEMU的GEM5 CPU模型实现.熊天宇20240326[ppt](./assets/slides/%E5%9F%BA%E4%BA%8ENEMU%E7%9A%84GEM5%20CPU%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0.pptx)
+  - **CoolSim & Delorean.巢玲威&薛江莹.202403019.** [ppt](./assets/slides/CoolSim%26delorean_discuss_202403019.pptx)
+  - 基于NEMU的GEM5 CPU模型实现.熊天宇20240326. [ppt](./assets/slides/%E5%9F%BA%E4%BA%8ENEMU%E7%9A%84GEM5%20CPU%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0.pptx)
 </details> 
 
 
@@ -167,11 +172,13 @@
 
 <details>
 <summary>Paper</summary>
-    - SWINN: Efficient nearest neighbor search in sliding windows using graphs [paper](./assets/approximate_nearest_neighbors/paper/SWINN%20-%20Efficient%20nearest%20neighbor%20search%20in%20sliding%20windows%20using%20graphs.pdf)
+
+  - SWINN: Efficient nearest neighbor search in sliding windows using graphs [pdf](./assets/approximate_nearest_neighbors/paper/SWINN%20-%20Efficient%20nearest%20neighbor%20search%20in%20sliding%20windows%20using%20graphs.pdf) 
 </details> 
 
 <details>
 <summary>PPT</summary>
-    - SWINN: Efficient nearest neighbor search in sliding windows using graphs [ppt](./assets/approximate_nearest_neighbors/ppt/20240402.pptx)
+
+  - SWINN: Efficient nearest neighbor search in sliding windows using graphs [ppt](./assets/approximate_nearest_neighbors/ppt/20240402.pptx)
 </details> 
     
