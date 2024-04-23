@@ -2,7 +2,8 @@
 
 **<font size="5">BlockChain</font>**
 
-- Paper
+<details>
+<summary>Paper</summary>
 
   - **RainBlock: Faster Transaction Processing in Public Blockchains** [[pdf]](./assets/Ponnapalli%20et%20al.%20-%20RainBlock%20Faster%20Transaction%20Processing%20in%20Public.pdf) [[slide]](./assets/slides/atc21_slides_ponnapalli.pdf) #BlockChain #Stateless #Sharded #ATC21 #Conference-2022-09-20 #Conference-2022-09-22
 
@@ -104,60 +105,73 @@
 
   - **Understanding ethereum via graph analysis** [[pdf]](./assets/CHEN%20et%20al.%20-2020-%20Understanding%20ethereum%20via%20graph%20analysis.pdf) #BlockChain #Ethereum #Data Analysis
 
-      
+</details>  
 
-  ## Guide
-
+<details>
+<summary>Guide</summary>
+ 
   - **“区块链”重点专项2022年度项目申报指南** [[pdf]](./assets/%E2%80%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E2%80%9D%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B92022%E5%B9%B4%E5%BA%A6%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E6%8C%87%E5%8D%97.pdf) #BlockChain
+</details> 
 
-  ## Grey literature
-
+<details>
+<summary>Grey literature</summary>
   - **Ethereum Whitepaper** [[site]](https://ethereum.org/en/whitepaper/) #BlockChain #Ethereum
   - **Ethereum Yellowpaper** [[pdf]](https://ethereum.github.io/yellowpaper/paper.pdf) #BlockChain #Ethereum
   - **BigchainDB 2.0 Whitepaper** [[pdf]](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf) #BlockChain
+</details> 
 
-  ## Article
-
+<details>
+<summary>Research</summary>
   - [The Search Engines of Web3](https://blog.web3labs.com/search-engines-of-web3) #BlockChain #Query
   - [研究｜从数据查询看行业的发展](https://cryptoyc.com/de74bb06c0334655a11aabf2935025f9) #BlockChain #Query
   - [研究｜中间件介绍](https://cryptoyc.com/6047d989a53544239a6e74f7b6a8d420) #BlockChain #Middleware
   - [研究｜中间件分析：The Graph](https://cryptoyc.com/1/cyc-research/the-graph) #BlockChain #TheGraph
   - [Bitcoin Script: An Introduction For Beginners](https://komodoplatform.com/en/academy/bitcoin-script/) #BlockChain #BTC
+</details> 
 
-  ## Project
-
+<details>
+<summary>Project</summary>
   - **The Graph** [[site]](http://thegraph.com) [[github]](https://github.com/graphprotocol) #BlockChain #Query #Ethereum #IPFS #GraphQL #TheGraph
   - **Conflux** [[site]](https://confluxnetwork.org/) [[github]](https://github.com/conflux-chain) #BlockChain #Chain #Conflux
   - **Signum** [[site]](https://www.signum.network/) [[github]](https://github.com/signum-network) #BlockChain #Chain
   - **Sui** [[site]](https://sui.io/) [[github]](https://github.com/MystenLabs) #BlockChain #Chain
+</details> 
 
-  ## Wiki
 
+<details>
+<summary>Wiki</summary>
   - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) #BlockChain #BTC
+</details> 
 
-  ## Open class
-
+<details>
+<summary>Open class</summary>
   - [北京大学肖臻老师《区块链技术与应用》公开课](http://zhenxiao.com/blockchain/) #BlockChain
-
+</details> 
 
 **<font size="5">XiangShan</font>**
 
-- Paper
-*
-- PPT
+<details>
+<summary>Paper</summary>
+  *
+</details> 
+
+<details>
+<summary>PPT</summary>
     - CoolSim & Delorean.巢玲威&薛江莹.202403019. [ppt](./assets/slides/CoolSim%26%20delorean%E8%AE%A8%E8%AE%BA_202403019.pptx)
 
     - 基于NEMU的GEM5 CPU模型实现.熊天宇20240326[ppt](./assets/slides/%E5%9F%BA%E4%BA%8ENEMU%E7%9A%84GEM5%20CPU%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0.pptx)
-
-[ApproximateNearestNeighbors](./ApproximateNearestNeighbors.markdown)
+</details> 
 
 
 **<font size="5">ApproximateNearestNeighbors</font>**
 
-- Paper
-
+<details>
+<summary>Paper</summary>
     - SWINN: Efficient nearest neighbor search in sliding windows using graphs [paper](./assets/approximate_nearest_neighbors/paper/SWINN%20-%20Efficient%20nearest%20neighbor%20search%20in%20sliding%20windows%20using%20graphs.pdf)
+</details> 
 
-- PPT
-
+<details>
+<summary>PPT</summary>
     - SWINN: Efficient nearest neighbor search in sliding windows using graphs [ppt](./assets/approximate_nearest_neighbors/ppt/20240402.pptx)
+</details> 
+    
