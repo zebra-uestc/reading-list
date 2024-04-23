@@ -144,7 +144,7 @@
 <details>
 <summary>Wiki</summary>
 
-  <a herf="https://en.bitcoin.it/wiki/Main_Page">Bitcoin Wiki</a> #BlockChain #BTC
+  <a href="https://en.bitcoin.it/wiki/Main_Page">Bitcoin Wiki</a> #BlockChain #BTC
   - [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) #BlockChain #BTC
 </details> 
 
